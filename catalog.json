@@ -1,0 +1,58 @@
+[
+  {
+    "name": "clawd-on-desk",
+    "url": "https://github.com/rullerzhou-afk/clawd-on-desk",
+    "category": "ai-coding-pet",
+    "stack": "JavaScript",
+    "note": "Pixel desktop pet that watches Claude Code, Codex, Cursor, and other AI coding agents."
+  },
+  {
+    "name": "desktopPet",
+    "url": "https://github.com/Adrianotiger/desktopPet",
+    "category": "classic-pet",
+    "stack": "C#",
+    "note": "Modern eSheep-style desktop pet inspired by the 1995 original."
+  },
+  {
+    "name": "Agentic-Desktop-Pet",
+    "url": "https://github.com/jihe520/Agentic-Desktop-Pet",
+    "category": "ai-companion",
+    "stack": "Python",
+    "note": "Agentic desktop pet with LLM, memory, emotion, and RPG-style interaction."
+  },
+  {
+    "name": "MiniCPM-Desk-Pet",
+    "url": "https://github.com/OpenBMB/MiniCPM-Desk-Pet",
+    "category": "local-ai-pet",
+    "stack": "JavaScript",
+    "note": "Local-first desktop pet powered by MiniCPM."
+  },
+  {
+    "name": "Ark-Pets",
+    "url": "https://github.com/isHarryh/Ark-Pets",
+    "category": "character-pet",
+    "stack": "Java",
+    "note": "Arknights desktop pets."
+  },
+  {
+    "name": "Shijima-Qt",
+    "url": "https://github.com/pixelomer/Shijima-Qt",
+    "category": "runner",
+    "stack": "C++",
+    "note": "Shimeji desktop pet runner."
+  },
+  {
+    "name": "DailyDesk",
+    "url": "https://github.com/StaryMoon/DailyDesk",
+    "category": "productivity-widget",
+    "stack": "Swift/AppKit",
+    "note": "macOS glass desktop planner with recurring tasks, desktop pin behavior, and a tiny desktop pet."
+  },
+  {
+    "name": "myCat",
+    "url": "https://github.com/yumiaura/myCat",
+    "category": "qt-overlay",
+    "stack": "Python",
+    "note": "Qt overlay desktop cat with a strong small-tool vibe."
+  }
+]
