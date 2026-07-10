@@ -10,6 +10,8 @@ The list focuses on projects that are interesting to builders: real desktop over
 
 Desktop pets are back, but the ecosystem is scattered across old eSheep-style toys, Shimeji runners, Live2D assistants, AI coding pets, and local LLM companions. This repo keeps a practical index for people who want to build or compare them.
 
+Builder notes: [docs/builder-guide.md](docs/builder-guide.md)
+
 ## Quick Picks
 
 | Need | Try |
@@ -20,6 +22,7 @@ Desktop pets are back, but the ecosystem is scattered across old eSheep-style to
 | Arknights character desktop pets | [Ark-Pets](https://github.com/isHarryh/Ark-Pets) |
 | Shimeji desktop pet runner | [Shijima-Qt](https://github.com/pixelomer/Shijima-Qt) |
 | macOS glass planner with a small desktop pet | [DailyDesk](https://github.com/StaryMoon/DailyDesk) |
+| Transparent-window framework example | [UnityDesktopPetFramework](https://github.com/OnyxAmber/UnityDesktopPetFramework) |
 
 ## Catalog
 
@@ -33,6 +36,7 @@ Desktop pets are back, but the ecosystem is scattered across old eSheep-style to
 | [AI-Girlfriend-Desktop-Pet](https://github.com/DD-MASTERT/AI-Girlfriend-Desktop-Pet) | Python | Live2D AI desktop pet with speech, screen recognition, and multiple model backends. |
 | [yuns-desktop-pet](https://github.com/JianguSheng/yuns-desktop-pet) | JavaScript | Electron AI pet assistant with multi-model chat, MCP tools, and vision analysis. |
 | [chatgpt-desktopPet](https://github.com/kirbystudy/chatgpt-desktopPet) | JavaScript | Electron + Live2D desktop pet with ChatGPT support. |
+| [DesktopPet](https://github.com/xccds/DesktopPet) | GDScript | Godot desktop pet with AI-powered chat. |
 
 ### Classic and Character Pets
 
@@ -44,6 +48,7 @@ Desktop pets are back, but the ecosystem is scattered across old eSheep-style to
 | [Ark-Pets](https://github.com/isHarryh/Ark-Pets) | Java | Arknights desktop pets. |
 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | ActionScript | Cockroach desktop pet. Weird, memorable, and very desktop-pet-coded. |
 | [Maltese_DesktopPet](https://github.com/Jimmmmmies/Maltese_DesktopPet) | Python | PyQt5 desktop pet themed around a small white dog character. |
+| [desktop-pet](https://github.com/datawhalechina/desktop-pet) | Python | Minimal desktop pet demo with Wenxin Yiyan and Raspberry Pi Pico. |
 
 ### Runners and Frameworks
 
@@ -54,6 +59,7 @@ Desktop pets are back, but the ecosystem is scattered across old eSheep-style to
 | [3d-desktop-pet](https://github.com/zlmica/3d-desktop-pet) | Vue | 3D desktop pet experiment. |
 | [DesktopPetBasedOnU3D](https://github.com/unishiki/DesktopPetBasedOnU3D) | C# | U3D desktop pet project code and structure. |
 | [DesktopPet](https://github.com/xccds/DesktopPet) | GDScript | Godot desktop pet with AI-powered chat. |
+| [Shirros/desktop-pet](https://github.com/Shirros/desktop-pet) | Python | Python desktop pet experiment with ChatGPT support. |
 
 ### Productivity Widgets with Pet Energy
 
@@ -62,7 +68,7 @@ Desktop pets are back, but the ecosystem is scattered across old eSheep-style to
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Swift/AppKit | macOS glass desktop planner with recurring tasks, desktop pin behavior, and a tiny desktop pet. |
 | [myCat](https://github.com/yumiaura/myCat) | Python | Qt overlay desktop cat with a strong small-tool vibe. |
 | [pet-therapy](https://github.com/raman0c17/pet-therapy) | macOS | Desktop pets for macOS. |
-| [desktop-pet](https://github.com/datawhalechina/desktop-pet) | Python | Minimal desktop pet with Wenxin Yiyan and Raspberry Pi Pico. |
+| [3d-desktop-pet](https://github.com/zlmica/3d-desktop-pet) | Vue | 3D desktop pet experiment that is useful as a web-rendered widget reference. |
 
 ## Builder Notes
 

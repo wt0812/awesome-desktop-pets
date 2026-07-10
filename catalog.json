@@ -54,5 +54,96 @@
     "category": "qt-overlay",
     "stack": "Python",
     "note": "Qt overlay desktop cat with a strong small-tool vibe."
+  },
+  {
+    "name": "AI-Girlfriend-Desktop-Pet",
+    "url": "https://github.com/DD-MASTERT/AI-Girlfriend-Desktop-Pet",
+    "category": "ai-companion",
+    "stack": "Python",
+    "note": "Live2D AI desktop pet with speech, screen recognition, and multiple model backends."
+  },
+  {
+    "name": "yuns-desktop-pet",
+    "url": "https://github.com/JianguSheng/yuns-desktop-pet",
+    "category": "ai-companion",
+    "stack": "JavaScript",
+    "note": "Electron AI pet assistant with multi-model chat, MCP tools, and vision analysis."
+  },
+  {
+    "name": "chatgpt-desktopPet",
+    "url": "https://github.com/kirbystudy/chatgpt-desktopPet",
+    "category": "live2d-pet",
+    "stack": "JavaScript",
+    "note": "Electron and Live2D desktop pet with ChatGPT support."
+  },
+  {
+    "name": "huiyadanli/DesktopPet",
+    "url": "https://github.com/huiyadanli/DesktopPet",
+    "category": "classic-pet",
+    "stack": "C#",
+    "note": "Desktop pet inspired by Ukagaka and Sakura-style companions."
+  },
+  {
+    "name": "WolfChen1996/DesktopPet",
+    "url": "https://github.com/WolfChen1996/DesktopPet",
+    "category": "classic-pet",
+    "stack": "Python",
+    "note": "Framework-style project for making personal desktop pets."
+  },
+  {
+    "name": "VirtualCockroach",
+    "url": "https://github.com/FerryYoungFan/VirtualCockroach",
+    "category": "novelty-pet",
+    "stack": "ActionScript",
+    "note": "Cockroach desktop pet with a memorable novelty concept."
+  },
+  {
+    "name": "UnityDesktopPetFramework",
+    "url": "https://github.com/OnyxAmber/UnityDesktopPetFramework",
+    "category": "framework",
+    "stack": "C#",
+    "note": "Transparent-window interactive example based on Unity URP."
+  },
+  {
+    "name": "3d-desktop-pet",
+    "url": "https://github.com/zlmica/3d-desktop-pet",
+    "category": "3d-widget",
+    "stack": "Vue",
+    "note": "3D desktop pet experiment useful as a web-rendered widget reference."
+  },
+  {
+    "name": "DesktopPetBasedOnU3D",
+    "url": "https://github.com/unishiki/DesktopPetBasedOnU3D",
+    "category": "framework",
+    "stack": "C#",
+    "note": "U3D desktop pet project code and structure."
+  },
+  {
+    "name": "xccds/DesktopPet",
+    "url": "https://github.com/xccds/DesktopPet",
+    "category": "ai-companion",
+    "stack": "GDScript",
+    "note": "Godot desktop pet with AI-powered chat."
+  },
+  {
+    "name": "Maltese_DesktopPet",
+    "url": "https://github.com/Jimmmmmies/Maltese_DesktopPet",
+    "category": "character-pet",
+    "stack": "Python",
+    "note": "PyQt5 desktop pet themed around a small white dog character."
+  },
+  {
+    "name": "datawhalechina/desktop-pet",
+    "url": "https://github.com/datawhalechina/desktop-pet",
+    "category": "education-demo",
+    "stack": "Python",
+    "note": "Minimal desktop pet demo with Wenxin Yiyan and Raspberry Pi Pico."
+  },
+  {
+    "name": "Shirros/desktop-pet",
+    "url": "https://github.com/Shirros/desktop-pet",
+    "category": "ai-companion",
+    "stack": "Python",
+    "note": "Python desktop pet experiment with ChatGPT support."
   }
 ]
