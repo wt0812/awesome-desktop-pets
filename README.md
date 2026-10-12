@@ -69,6 +69,7 @@ Builder notes: [docs/builder-guide.md](docs/builder-guide.md)
 | [myCat](https://github.com/yumiaura/myCat) | Python | Qt overlay desktop cat with a strong small-tool vibe. |
 | [pet-therapy](https://github.com/raman0c17/pet-therapy) | macOS | Desktop pets for macOS. |
 | [3d-desktop-pet](https://github.com/zlmica/3d-desktop-pet) | Vue | 3D desktop pet experiment that is useful as a web-rendered widget reference. |
+| [Desktop Cat](https://github.com/wt0812/desktop-cat) | C# / PowerShell | Single-file Windows pixel cat: no installer, no network, 12 animations, persisted position and affection. |
 
 ## Builder Notes
 
