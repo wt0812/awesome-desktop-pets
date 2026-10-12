@@ -49,6 +49,7 @@ Builder notes: [docs/builder-guide.md](docs/builder-guide.md)
 | [VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | ActionScript | Cockroach desktop pet. Weird, memorable, and very desktop-pet-coded. |
 | [Maltese_DesktopPet](https://github.com/Jimmmmmies/Maltese_DesktopPet) | Python | PyQt5 desktop pet themed around a small white dog character. |
 | [desktop-pet](https://github.com/datawhalechina/desktop-pet) | Python | Minimal desktop pet demo with Wenxin Yiyan and Raspberry Pi Pico. |
+| [Desktop Cat](https://github.com/wt0812/desktop-cat) | C# / PowerShell | Single-file Windows pixel cat: no installer, no network, 12 animations, persisted position and affection. |
 
 ### Runners and Frameworks
 
@@ -69,7 +70,6 @@ Builder notes: [docs/builder-guide.md](docs/builder-guide.md)
 | [myCat](https://github.com/yumiaura/myCat) | Python | Qt overlay desktop cat with a strong small-tool vibe. |
 | [pet-therapy](https://github.com/raman0c17/pet-therapy) | macOS | Desktop pets for macOS. |
 | [3d-desktop-pet](https://github.com/zlmica/3d-desktop-pet) | Vue | 3D desktop pet experiment that is useful as a web-rendered widget reference. |
-| [Desktop Cat](https://github.com/wt0812/desktop-cat) | C# / PowerShell | Single-file Windows pixel cat: no installer, no network, 12 animations, persisted position and affection. |
 
 ## Builder Notes
 
